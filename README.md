@@ -1,6 +1,6 @@
 # Deploy de la App
 
-[Click acá](https://heuristic-nightingale-9d18a9.netlify.app/)
+[Click acá](https://amazing-tereshkova-9780ed.netlify.app/)
 
 # Getting Started with Create React App
 
